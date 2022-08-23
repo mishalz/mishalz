@@ -2,11 +2,11 @@
 
 ## I'm an web developer!
 
+- ⚡ About me: A final year Software Engineering student, studying in NUST, Islamabad. 
+
 - 👀 Love to read, swim and travel. 
 
 - 🥅 2022 Goals: To go further in enhancing my front-end skills.
-
-- ⚡ About me: A final year Software Engineering student, studying in NUST, Islamabad. 
 
 ### Connect with me:
 
