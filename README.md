@@ -4,7 +4,7 @@
 
 - ⚡ About me: A final year Software Engineering student, studying in NUST, Islamabad. 
 
-- 👀 Love to read, swim and travel. 
+- 👀 Fond of reading and travelling. 
 
 - 🥅 2022 Goals: To go further in enhancing my front-end skills.
 
