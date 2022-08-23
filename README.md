@@ -2,7 +2,7 @@
 
 ## I'm an web developer!
 
-- 👀 Looking for time to read more Books
+- 👀 Love to read, swim and travel. 
 
 - 🥅 2022 Goals: To go further in enhancing my front-end skills.
 
