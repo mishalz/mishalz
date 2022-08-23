@@ -53,8 +53,8 @@
 
 #### ⚡ Github Stats:
 
-<img align="left" alt="Farab's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kracodes2325&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=blueberry" />
-<img align="left" alt="kracodes2325's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kracodes2325&hide_border=true&layout=compact&theme=blueberry" />
+<img align="left" alt="Farab's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mishalz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=blueberry" />
+<img align="left" alt="kracodes2325's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishalz&hide_border=true&layout=compact&theme=blueberry" />
 
 <!-- <details>
 
