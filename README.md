@@ -40,8 +40,6 @@
 
 <img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/38/38401.png" />
 
-<img align="left" alt="Figma" width="26px" src="https://miro.medium.com/max/1400/1*6XgfDCVn81AYX68Xvd2I-g@2x.png" />
-
 <br />
 
 
