@@ -6,7 +6,7 @@
 
 - 👀 Fond of reading and travelling. 
 
-- 🥅 2022 Goals: To go further in enhancing my front-end skills.
+- 🥅 2022 Goals: To go further in enhancing my full-stack skills.
 
 ### Connect with me:
 
