@@ -2,7 +2,7 @@
 
 ## I'm an web developer!
 
-- ⚡ About me: A final year Software Engineering student, studying in NUST, Islamabad. 
+- ⚡ About me: A Software Engineer from NUST, Islamabad. 
 
 - 👀 Fond of reading and travelling. 
 
