@@ -2,7 +2,9 @@
 
 ## I'm an web developer!
 
-- ⚡ About me: A Software Engineer from NUST, Islamabad. 
+- ⚡ About me: A Software Engineer from NUST, Islamabad.
+
+- 📚 Currently, persuing MSc Advanced Computing from University of London. 
 
 - 👀 Fond of reading and travelling. 
 
