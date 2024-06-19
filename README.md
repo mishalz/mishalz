@@ -10,12 +10,6 @@
 
 - 🥅 2024 Goals: To go further in enhancing my full-stack skills.
 
-### Connect with me:
-
-[<img align="left" alt="LinkedIn-logo" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-
-<br />
-
 <br />
 
 ### 🌱 Languages and Tools:
