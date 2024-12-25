@@ -1,14 +1,14 @@
 ### Hi there, I'm Mishal Zulfiqar! 👋
 
-## I'm an web developer!
+## I'm a Software Engineer!
 
 - ⚡ About me: A Software Engineer from NUST, Islamabad.
 
-- 📚 Currently, persuing MSc Advanced Computing from University of London. 
+- 📚 Recently, completed MSc Advanced Computing from University of London. 
 
 - 👀 Fond of reading and travelling. 
 
-- 🥅 2024 Goals: To go further in enhancing my full-stack skills.
+- 🥅 2025 Goals: Explore more sides of myself and focus on my growth.
 
 <br />
 
