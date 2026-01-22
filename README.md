@@ -8,7 +8,7 @@
 
 - 👀 Fond of reading and travelling. 
 
-- 🥅 2025 Goals: Explore more sides of myself and focus on my growth.
+- 🥅 2026 Goals: Explore more sides of myself and focus on my growth.
 
 <br />
 
